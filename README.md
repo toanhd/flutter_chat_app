@@ -1,6 +1,6 @@
 # flutter_chat_app
 
-A new Flutter application.
+Sample Flutter chat application.
 
 ## Getting Started
 
